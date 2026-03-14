@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/minecraft-1-21-apk",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a minecraft-1-21-apk",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/minecraft-1-21-apk.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://sitiosweb.lat/minecraft-1-21-apk/"
+    },
+    "homepage": "https://sitiosweb.lat/minecraft-1-21-apk/"
+}
